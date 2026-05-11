@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coders Arcade - CI/CD Learning</title>
+    <title>Coders Arcade - CD Learning</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
